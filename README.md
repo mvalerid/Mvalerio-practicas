@@ -1,2 +1,3 @@
-# Mvalerio-practicas
+$ ## # Mvalerio-practicas
 prácticas
+$ ## .gitignore
